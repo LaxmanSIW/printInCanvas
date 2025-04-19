@@ -1,0 +1,9 @@
+{
+  "name": "js-modules-demo",
+  "version": "1.0.0",
+  "description": "Demonstration of JavaScript module patterns",
+  "type": "module",
+  "scripts": {
+    "start": "node src/main.js"
+  }
+} 
